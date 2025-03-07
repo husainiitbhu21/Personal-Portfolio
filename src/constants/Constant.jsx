@@ -13,7 +13,7 @@ import Vue from "../assets/Vue.png";
 import Dotnet from "../assets/.NET.png"
 
 import Hackthechain from "../assets/HackTheChainLogo.png";
-import GSSOC from "../assets/GSSoc.jpg";
+import GSSOC from "../assets/GSSoC.jpg";
 import IITB from "../assets/IITB.png";
 import IITBHU from "../assets/IITBHU.png"
 import Sports from "../assets/Sports_Club.png";
