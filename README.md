@@ -1,5 +1,5 @@
 # Personal-Portfolio
-Personal Portfolio Website of Husain Saify a programming enthusiast from IIIT Kota
+Personal Portfolio Website of Husain Saify a programming enthusiast from IIT BHU
 <br>
   <hr>
 
